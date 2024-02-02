@@ -2,5 +2,5 @@
 using namespace std;
 
 int main(){
-    cout<<"szj"<<endl;
+    cout<<"szj123"<<endl;
 }
